@@ -19,7 +19,7 @@ I recently worked on a time series forecasting project to predict annual energy 
 
     The model successfully predicted energy production trends, with the predictions closely aligning with actual values, as seen in the plots.
     XGBoost’s ability to manage both temporal patterns and non-linear relationships contributed to accurate and reliable results.
-
+![Alt text](https://github.com/Saratha84/Time-Series-Forecasting-with-XGBoost/blob/main/1_.png)
 🔗 Stay tuned for more insights on machine learning in time series analysis!
 
 #MachineLearning #XGBoost #TimeSeries #DataScience #Energy #Forecasting #AI #Python
